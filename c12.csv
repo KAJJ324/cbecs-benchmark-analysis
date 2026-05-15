@@ -1,0 +1,102 @@
+﻿Release date: December 2022,,,,,,,,,,,
+"Table C12. Sum of major fuel consumption totals and gross energy intensities by building activity subcategories, 2018",,,,,,,,,,,
+,,,,Sum of major fuel consumption ,,,,,,,
+,All buildings ,,,Total (trillion British thermal units [Btu]),"Per
+building
+(million
+Btu)","Per
+square foot
+(thousand
+Btu)","Distribution of 
+building-level intensities
+(thousand Btu/square foot)",,,,
+,Number of buildings (thousand),"Total
+floorspace
+(million 
+square feet)","Floorspace
+per building
+(thousand
+square feet)",,,,"25th
+per-
+centile",Median,"75th
+per-
+centile",,
+All buildings,"5,918","96,423",16.3,"6,787","1,147",70.4,22.6,45.0,80.6,,
+"Principal building activity
+(expanded)",,,,,,,,,,,
+Education ,437,"13,623",31.1,854,"1,952",62.7,31.1,48.6,74.4,,
+College or university ,60,"1,827",30.6,157,"2,625",85.8,32.7,48.6,78.4,,
+K–12 ,264,"10,619",40.3,632,"2,395",59.5,31.9,48.6,69.5,,
+Elementary school ,133,"3,626",27.3,194,"1,459",53.5,29.5,45.2,59.8,,
+Middle/junior high school,26,"1,832",69.5,113,"4,289",61.7,51.3,67.9,77.5,,
+High school ,69,"3,510",51.1,231,"3,366",65.8,31.6,52.2,75.0,,
+Multi-grade school (any K–12),36,"1,651",46.0,94,"2,605",56.7,31.9,45.4,69.1,,
+Preschool or daycare ,81,482,5.9,28,341,57.7,26.8,52.4,74.4,,
+Other classroom education ,33,695,21.3,38,"1,159",54.4,11.2,34.3,72.4,,
+Food sales ,163,"1,006",6.2,233,"1,433",232.0,150.5,215.2,311.2,,
+Convenience store (with or without gas station),121,371,3.1,83,691,224.7,167.9,231.9,313.9,,
+Grocery store or food market ,33,604,18.3,147,"4,460",243.3,150.5,242.2,273.2,,
+Other food sales ,Q,Q,Q,Q,Q,Q,Q,Q,Q,,
+Food service ,286,"1,385",4.8,365,"1,273",263.3,141.0,232.9,381.5,,
+Fast food ,70,291,4.1,95,"1,356",326.8,243.1,324.9,479.6,,
+Restaurant or cafeteria ,175,924,5.3,245,"1,396",265.0,132.2,225.8,365.8,,
+Other food service ,41,171,4.1,25,605,145.9,80.6,142.8,188.2,,
+Health care ,137,"4,018",29.3,581,"4,237",144.5,40.7,61.1,98.8,,
+Inpatient ,9,"2,259",264.8,436,"51,180",193.3,140.4,208.6,252.9,,
+Outpatient ,129,"1,760",13.7,144,"1,123",82.0,39.2,60.6,89.0,,
+Office (diagnostic) ,64,638,9.9,40,625,63.0,38.1,51.2,67.6,,
+Clinic or other outpatient ,64,"1,122",17.5,104,"1,621",92.8,45.1,69.5,102.8,,
+Lodging ,207,"6,976",33.7,598,"2,888",85.7,53.3,86.1,120.3,,
+Hotel ,66,"3,551",54.0,276,"4,194",77.7,37.7,72.8,98.7,,
+Motel or inn ,41,592,14.5,47,"1,159",80.0,57.6,75.3,108.1,,
+"Dormitory, fraternity, or sorority ",35,840,Q,64,"1,824",76.7,46.8,103.0,123.3,,
+Nursing home or assisted living,38,"1,525",40.6,176,"4,696",115.6,62.6,122.2,185.0,,
+Other lodging ,27,467,17.0,34,"1,229",72.2,55.7,75.7,115.0,,
+Mercantile ,517,"10,781",20.9,953,"1,843",88.4,33.1,62.8,108.1,,
+Retail (other than mall),350,"5,193",14.8,333,950,64.1,25.8,40.8,63.5,,
+Retail store ,296,"4,487",15.2,289,977,64.4,25.0,38.7,63.1,,
+Other retail ,55,706,12.9,44,802,62.3,33.0,56.9,71.0,,
+Enclosed and strip malls,167,"5,588",33.5,620,"3,723",111.0,78.0,113.5,140.1,,
+Strip shopping center ,166,"4,904",29.6,585,"3,532",119.3,78.0,113.5,140.1,,
+Enclosed mall ,1,684,727.8,35,"37,391",51.4,26.8,47.9,68.6,,
+Office ,970,"16,662",17.2,"1,093","1,127",65.6,36.3,53.5,77.2,,
+Administrative or professional,553,"9,294",16.8,588,"1,062",63.2,33.5,52.2,72.0,,
+Bank or other financial ,47,628,13.4,44,944,70.6,46.3,63.0,92.1,,
+Government ,129,"2,526",19.6,163,"1,268",64.7,36.3,52.9,68.5,,
+Medical (non-diagnostic) ,46,356,7.7,23,497,64.2,34.1,54.5,85.3,,
+Mixed-use ,119,"3,359",28.3,248,"2,087",73.8,42.4,57.9,82.2,,
+Other office ,76,500,6.5,27,357,54.5,40.4,51.9,77.2,,
+Public assembly ,488,"7,192",14.7,583,"1,194",81.1,26.8,53.2,90.0,,
+Library ,25,433,17.0,43,"1,680",98.6,63.3,75.5,97.7,,
+Entertainment or culture,71,"1,318",18.6,109,"1,540",82.6,8.5,38.5,53.9,,
+Recreation ,152,"2,279",15.0,204,"1,341",89.5,30.4,53.2,121.8,,
+Social or meeting ,220,"2,469",11.2,158,717,64.0,21.2,54.7,82.1,,
+Other assembly ,20,694,35.0,70,"3,508",100.3,61.0,64.8,112.0,,
+Public order and safety ,81,"1,538",18.9,133,"1,635",86.3,54.6,75.0,99.9,,
+Fire or police station ,61,586,9.5,45,725,76.1,47.1,75.5,99.9,,
+Courthouse or probation office,9,452,51.2,29,"3,343",65.3,33.9,58.6,69.8,,
+Other public order ,11,501,45.9,59,"5,380",117.3,59.0,77.6,112.5,,
+Religious worship ,439,"5,471",12.5,193,440,35.3,17.8,32.9,48.5,,
+Service ,867,"6,240",7.2,318,367,50.9,19.9,37.3,66.7,,
+Post office or postal center ,35,367,10.4,26,754,72.1,24.8,38.6,96.1,,
+Vehicle service or repair ,267,"1,923",7.2,85,320,44.4,18.0,37.5,53.5,,
+Vehicle storage or maintenance,369,"2,805",7.6,103,280,36.8,16.1,29.4,50.4,,
+Other service ,196,"1,145",5.9,103,525,89.6,36.7,58.7,94.5,,
+Warehouse and storage ,"1,004","17,483",17.4,528,526,30.2,2.2,14.0,35.2,,
+Nonrefrigerated,"1,001","17,155",17.1,493,493,28.8,2.2,14.0,35.2,,
+Warehouse,548,"7,050",12.9,184,335,26.1,5.5,18.8,40.1,,
+Distribution or shipping center,167,"7,998",47.8,275,"1,647",34.4,15.1,27.6,52.6,,
+Self storage units ,285,"2,107",7.4,34,120,16.2,0.0,2.1,5.5,,
+Refrigerated ,3,327,94.8,35,"10,144",107.0,105.8,113.5,147.7,,
+Other ,113,"2,435",21.5,328,"2,899",134.8,25.0,54.2,106.5,,
+Laboratory ,11,711,65.6,131,Q,184.5,41.9,86.4,106.6,,
+Other ,102,"1,724",16.8,197,"1,924",114.3,25.0,51.9,104.9,,
+Vacant ,208,"1,612",7.8,27,130,16.8,0.0,1.9,20.4,,
+,,,,,,,,,,,
+"Data source: U.S. Energy Information Administration, Forms EIA-871A, C, D, E, and F of the 2018 Commercial Buildings Energy Consumption Survey 
+Notes: Because of rounding, data may not sum to totals. The Guide to the 2018 CBECS Tables and CBECS Terminology contain definitions of terms used in these tables and comparisons between previous CBECS tables. You can access both references from http://www.eia.gov/consumption/commercial/data/2018/. 
+Data are sample survey estimates with relative standard errors published in a tab on the Excel worksheet for this table. 
+Estimates in the energy end uses category represent total consumption in buildings that have the end use but not the consumption specifically for that end use.                                                                                                                                                     
+Q = Data withheld either because the relative standard error was greater than 50% or the reporting sample had fewer than 20 buildings.                                                                                      
+N = No buildings in reporting sample.
+",,,,,,,,,,,
